@@ -1,0 +1,8 @@
+{
+  "name": "BleNe",
+  "description": "A high-accessibility mobile application connecting visually impaired users with authenticated volunteers for real-time assistance.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
